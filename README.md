@@ -1,4 +1,4 @@
-### Olá! Sou o Leonardo 🤓 e este é meu     [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onsafe/)
+### Olá! Sou o Leonardo 🤓 e este é meu     [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onsafe/)<br/>
 
 <a href="https://github.com/Leonardo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OnSaffe&show_icons=true&theme=dracula" />
